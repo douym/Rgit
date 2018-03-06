@@ -21,4 +21,20 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 file.exists("~/.ssh/id_rsa.pub")
 
 ```
+```{python}
+for i in range(0,5):
+  print i
+```
+
+
+
+```{r}
+for (i in seq(0,5)){
+  print (i)
+}
+```
+
+
+
+
 
